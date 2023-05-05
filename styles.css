@@ -1,0 +1,13 @@
+.grid {
+    margin: 0 auto;
+    width: 400px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+  }
+
+  .title{
+    display: flex;
+    justify-content: center; 
+ }
